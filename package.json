@@ -1,0 +1,9 @@
+{
+  "name": "@371digital/gengine-dom",
+  "version": "1.0.0",
+  "description": "Gengine Dom",
+  "main": "index.js",
+  "scripts": {},
+  "author": "371Digital",
+  "license": "ISC"
+}
